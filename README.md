@@ -25,7 +25,6 @@ This project aims to provide a robust framework for Quality Assurance (QA) Autom
 - **NUnit:** Unit testing framework for C# applications.
 - **MSTest:** Microsoft's unit testing framework for .NET applications.
 - **Visual Studio:** Integrated development environment for coding, testing, and debugging.
-- **MSSM (MSTest):** Microsoft's unit testing framework (assuming it's a typo).
 - **EF Core:** Entity Framework Core for data access in .NET applications.
 - **ASP.NET Core Web API:** Building APIs for .NET applications.
 
