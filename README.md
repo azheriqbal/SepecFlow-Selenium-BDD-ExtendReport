@@ -1,6 +1,6 @@
 Welcome to the comprehensive Specflow Selenium C# Tutorial series! 🚀 In this detailed tutorial, we cover everything you need to know to master Specflow, Selenium, and C# for Behavior-Driven Development (BDD) automation testing.
 
-# 📚 Chapters Overview:
+📚 Chapters Overview:
 
 Introduction to Specflow: Understand the basics and the key differences between BDD and TDD.
 Setting Up Your Project: Explore the default structure, install Specflow in Visual Studio 2022, and create your Specflow project.
