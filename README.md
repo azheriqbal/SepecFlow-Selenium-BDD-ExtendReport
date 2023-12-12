@@ -1,4 +1,4 @@
-# Welcome to the comprehensive Specflow Selenium C# Tutorial series! 🚀 In this detailed tutorial, we cover everything you need to know to master Specflow, Selenium, and C# for Behavior-Driven Development (BDD) automation testing.
+Welcome to the comprehensive Specflow Selenium C# Tutorial series! 🚀 In this detailed tutorial, we cover everything you need to know to master Specflow, Selenium, and C# for Behavior-Driven Development (BDD) automation testing.
 
 # 📚 Chapters Overview:
 
