@@ -52,7 +52,3 @@ This project supports multiple testing frameworks:
 ## Contributing
 
 We welcome contributions! If you'd like to contribute to this project, please follow our [Contribution Guidelines](CONTRIBUTING.md).
-
-## License
-
-This project is licensed under the [MIT License](LICENSE.md).
