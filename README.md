@@ -1,4 +1,4 @@
-# QA Automation for .NET Apps
+# Specflow Selenium C# for .NET Apps
 
 Welcome to the QA Automation project for .NET applications! This project focuses on automating tests for .NET apps using Selenium, C#, BDD Specflow, Gherkin, NUnit, MSTest, Visual Studio, Microsoft SQL Server Management, EF Core, and ASP.NET Core Web API.
 
